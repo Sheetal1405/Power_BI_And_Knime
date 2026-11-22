@@ -1,0 +1,10 @@
+﻿Order Counts,Region ,Total Sales,Category,CustomerID,customers.City,customers.Segment,customers.CustomersName,Year,Quarter,Month,Day,OrderID,Sum of Quantity,Product,Region ,Sales,Sum of UnitPrice
+1,East,12000,Electronics,C03,Noida,Corporate,Rohan Mehta,2026,Qtr 3,July,3,1003,1,Printer,East,12000,12000
+1,East,12000,Furniture,C06,Gurugram,Consumer,Ananya Gupta,2026,Qtr 3,July,8,1008,4,Table Lamp,East,4800,1200
+1,Unknown,42000,Electronics,C02,Delhi,Consumer,Priya Verma,2026,Qtr 3,July,8,1007,3,Monitor,Unknown,42000,14000
+1,West,9000,Electronics,C03,Noida,Corporate,Rohan Mehta,2026,Qtr 3,July,10,1009,6,Keyboard,West,9000,1500
+2,South,25500,Furniture,C02,Delhi,Consumer,Priya Verma,2026,Qtr 3,July,2,1002,1,Office Chair,South,7500,7500
+2,South,25500,Furniture,C05,Faridabad,Small Business,Vikram Singh,2026,Qtr 3,July,6,1006,2,Bookshelf,South,18000,9000
+3,North,180000,Electronics,C01,Gurugram,Corporate,Aarav Sharma,2026,Qtr 3,July,1,1001,2,Laptop,North,110000,55000
+3,North,180000,Electronics,C07,Unknown,Unknown,Not registered,2026,Qtr 3,July,11,1010,1,Laptop,North,55000,55000
+3,North,180000,Unknown,C01,Gurugram,Corporate,Aarav Sharma,2026,Qtr 3,July,3,1004,1,Desk,North,15000,15000
